@@ -1,4 +1,4 @@
-# scrim-website
+# whats that gibbon?
 
 ## Project setup
 ```
