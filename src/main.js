@@ -6,7 +6,6 @@ import VueRouter from 'vue-router';
 import 'vuesax/dist/vuesax.css';
 
 Vue.config.productionTip = false
-Vue.component('vuetable-field-sequence', VuetableFieldSequence)
 Vue.use(Router)
 
 const routes = [
